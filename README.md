@@ -1,71 +1,63 @@
-# Estruturas condicionais
-Em qualquer linguagem de programação, o código precisa tomar decisões e realizar ações de acordo, dependendo de diferentes entradas.
+# Laços de repetição
+O loop de programação é como fazer a mesma coisa repetidas vezes.
 
-### Tipicos:
-- Declarações if ... else
-- else if
-- operadores de comparação
-- Aninhando if ... else
-- Operadores lógicos: AND, OR e NOT
-- switch
-- Operador ternário
-
-## Declarações if ... else
-é uma das formas de estabelecer condicoes dentro do codigo, é adicionando um if por exemplo:
-
-![image](https://user-images.githubusercontent.com/81869607/155247296-3ec35422-0c99-4700-bc26-05900f15bbd2.png)
-
-- Utiliznado apenas o if.
-- Fora do escopo
+### **Topicos:**
+- O for loop padrão
+- iniciando com zero (<=)
+- Saindo do loop com o break
+- continue
+- while 
+- do ... while
 __________
-- else
-![image](https://user-images.githubusercontent.com/81869607/155247771-9369c8c1-a92d-497c-ba0f-44de301190dd.png)
-__________
-- else if
-![image](https://user-images.githubusercontent.com/81869607/155248250-b52ad57c-e101-4039-b0c5-f954fd7e332e.png)
+## O for loop padrão
+![image](https://user-images.githubusercontent.com/81869607/155259035-bb31c913-d4b2-4f84-a07f-c7c31fea4d9b.png)
+- contador
+- condição de saída(array/length)
+- iterador (incrementar/decrementar)
 
-- Exemplo: Valor = 2
-__________
-## operadores de comparação
-- valor idêntico
-- "não igual" (NOT/EQUAL)
-- a != b (a é diferente de b)
+*enquanto for verdadeiro, o loop será executado.*
 
-![image](https://user-images.githubusercontent.com/81869607/155248820-49f3ba32-7663-46f0-8335-ef700196e4f8.png)
-__________
+## iniciando com zero (<=)
+![image](https://user-images.githubusercontent.com/81869607/155260084-8572dd78-31e1-4224-a7f9-2e6ea6fad471.png)
 
-![image](https://user-images.githubusercontent.com/81869607/155249366-44146a94-906d-4ed8-b880-3937c79d1245.png)
-
-![image](https://user-images.githubusercontent.com/81869607/155251200-f4db7f9f-4d1d-4170-80d6-065ad314f968.png)
-__________
-![image](https://user-images.githubusercontent.com/81869607/155250557-4793b4fd-29d3-493a-a51a-6e7af0e64e16.png)
-
-**OBS:**
-*15 é a mesma coisa que "15" quando a linguagem não é tipada. Mas quando você usa o === você força o código a comparar o tipo também.*
-## Aninhando if ... else
-![image](https://user-images.githubusercontent.com/81869607/155251441-1ed38063-551d-47d5-bbf2-5d070f1ed982.png)
-- é executado apenas oq está de acordo com a condição.
-
-## Operadores lógicos: AND, OR e NOT
-
-![image](https://user-images.githubusercontent.com/81869607/155251706-cb9f8de2-32a3-4305-a1eb-73135908923c.png)
-
-![image](https://user-images.githubusercontent.com/81869607/155252085-515e3921-b7a5-42fd-b762-3dfb95d5c1bf.png)
-- E
-- OU
-- Exemplo do NOT acima.
-## Switch
-![image](https://user-images.githubusercontent.com/81869607/155246658-43639f2e-a58e-481b-b49d-6996d8eba9f9.png)
-
-- Break
-- Default
-
-## Operador ternário
-![image](https://user-images.githubusercontent.com/81869607/155252803-19305fb7-bf6f-405c-b66b-1a4c89684bdc.png)
-
-# Laços de repetição:
-
-# Links Legais:
+ou
 ```
-https://refactoring.guru/pt-br/
+i === array.length
+```
+*que resulta em zero === dois*
+__________
+***loop infinito(condição de saida).***
+
+## break
+
+*Se você quiser sair de um loop antes que todas as iterações sejam concluídas, você poderá usar a instrução break.*
+
+![image](https://user-images.githubusercontent.com/81869607/155261640-4b965066-542a-4f6d-8679-20d2e65fef76.png)
+
+- saida
+
+## continue
+![image](https://user-images.githubusercontent.com/81869607/155261547-a769b974-9086-4f7e-9c0b-223a6b6372ff.png)
+
+- pular para prox
+
+## while 
+*variável inicializadora é definida antes do loop*
+
+![image](https://user-images.githubusercontent.com/81869607/155262445-7d6c7917-8ada-4c42-b182-fbd690e61a29.png)
+
+- decrementando
+- código pode nunca ser executado se a condição não passar
+## do ... while
+
+*Em um loop do ... while, o código dentro das chaves é sempre executado uma vez antes da verificação ser feita para ver se deve ser executada novamente.*
+
+![image](https://user-images.githubusercontent.com/81869607/155263248-27f126d0-96e8-4eea-8323-f32f8430e800.png)
+
+- final 
+- primeiro loop sem condição
+
+# Links Legais
+```
+https://replit.com/
 ```
