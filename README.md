@@ -4,7 +4,6 @@
 
 *Laços de repetição ou loop são comandos que permitem que certa parte do codigo seja repetida diversas vezes.*
 
-E tem algumas formas de fazer um laço de repetição e é oque vamos ver aqui:
 __________
 ### **Topicos:**
 - O for loop padrão
