@@ -9,12 +9,13 @@ let listaDeNumeros = [10, 5, 4, 1, 9, 22, 21, 23];
 
 function ordenarNumeros(listaDeNumeros){
   for(var index = 0; index < listaDeNumeros.length; index++){
-    let min_index = index;
-    for(var i = 0; i < listaDeNumeros.length; i++){ 
-      if (listaDeNumeros[i] > listaDeNumeros[min_index]){       
-        let reserva = listaDeNumeros[i]
-        listaDeNumeros[i] = listaDeNumeros[min_index]
-        listaDeNumeros[min_index] = reserva
+    let indexA = index;
+    for(var indexB = 0; indexB < listaDeNumeros.length; indexB++){ 
+      if (listaDeNumeros[indexB] > listaDeNumeros[indexA]){       
+        let reserva = listaDeNumeros[indexB]
+
+        listaDeNumeros[indexB] = listaDeNumeros[indexA]
+        listaDeNumeros[indexA] = reserva
       }     
     }
   }
