@@ -1,8 +1,6 @@
 // Refaça a multiplicação e a divisão utilizando apenas os operadores de "+" e de "-",
 // soma sucessiva e subtrações sucessivas.
 
-
-
 const numero1 = 10
 const numero2 = 5
 var operador = ';'
