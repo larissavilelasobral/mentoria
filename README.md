@@ -1,12 +1,15 @@
 ### Repositorio da Mentoria
 
 ## Estudos
-- []()
-- []()
-- []()
+- [Enum](https://github.com/larissavilelasobral/mentoria/tree/main/Estudos/Estudos%20CSharp/Enum)
+- [Switch](https://github.com/larissavilelasobral/mentoria/tree/main/Estudos/Estudos%20CSharp/Switch)
+- [Foreach](https://github.com/larissavilelasobral/mentoria/tree/main/Estudos/Estudos%20CSharp/foreach)
+- [While](https://github.com/larissavilelasobral/mentoria/tree/main/Estudos/Estudos%20CSharp/while)
 ## Exercícios
-- []()
-- []()
+- [Calculadora Inicial](https://github.com/larissavilelasobral/mentoria/blob/main/Exerc%C3%ADcios/Javascript/CalculadoraInicial.js)
+- [Calculadora Simples](https://github.com/larissavilelasobral/mentoria/blob/main/Exerc%C3%ADcios/Javascript/CalculadoraSimples.js)
+- [Calculadora Simples Refatorada](https://github.com/larissavilelasobral/mentoria/blob/main/Exerc%C3%ADcios/Javascript/CalculadoraSimplesRefatorada.js)
+- [Ordenar Numeros](https://github.com/larissavilelasobral/mentoria/blob/main/Exerc%C3%ADcios/Javascript/OrdenarNumeros.js)
 - []()
 ## Resumos
 - [Estruturas Condicionais](https://github.com/larissavilelasobral/mentoria/blob/main/Resumos/Javascript/EstruturasCondicionais.md)
