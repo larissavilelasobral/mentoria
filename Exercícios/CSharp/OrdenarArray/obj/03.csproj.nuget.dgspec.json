@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\96086\\Desktop\\mentoria\\Exercicios em C#\\03\\03.csproj": {}
+    "C:\\Users\\96086\\Desktop\\mentoria\\Exercícios\\CSharp\\OrdenarArray\\03.csproj": {}
   },
   "projects": {
-    "C:\\Users\\96086\\Desktop\\mentoria\\Exercicios em C#\\03\\03.csproj": {
+    "C:\\Users\\96086\\Desktop\\mentoria\\Exercícios\\CSharp\\OrdenarArray\\03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\96086\\Desktop\\mentoria\\Exercicios em C#\\03\\03.csproj",
+        "projectUniqueName": "C:\\Users\\96086\\Desktop\\mentoria\\Exercícios\\CSharp\\OrdenarArray\\03.csproj",
         "projectName": "03",
-        "projectPath": "C:\\Users\\96086\\Desktop\\mentoria\\Exercicios em C#\\03\\03.csproj",
+        "projectPath": "C:\\Users\\96086\\Desktop\\mentoria\\Exercícios\\CSharp\\OrdenarArray\\03.csproj",
         "packagesPath": "C:\\Users\\96086\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\96086\\Desktop\\mentoria\\Exercicios em C#\\03\\obj\\",
+        "outputPath": "C:\\Users\\96086\\Desktop\\mentoria\\Exercícios\\CSharp\\OrdenarArray\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\96086\\AppData\\Roaming\\NuGet\\NuGet.Config",

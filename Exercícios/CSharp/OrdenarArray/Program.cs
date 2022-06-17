@@ -2,37 +2,41 @@
 {
   static void Main(string[] args)
   {
-    //parâmetro: [10, 5, 4, 1, 9, 22, 21, 23]
-    int[] cars = { 0, 5, 4, 1, 9, 22, 21, 23 };
-    passa(cars);
+    int[] numerosDesordenados = { 10, 5, 4, 1, 9, 22, 21, 23 };
 
-    // for (int i = 0; i < 5; i++)
-    // {
-    //   Console.WriteLine(i);
-    // }
+    foreach (int numeros in numerosDesordenados)
+    {
+      Console.WriteLine(numeros);
+    }
+
+    OrdenarNumeros(numerosDesordenados);
+    Console.WriteLine("--------------------");
+
+    foreach (int numeros in numerosDesordenados)
+    {
+      Console.WriteLine(numeros);
+    }
   }
 
-  static int passa(params int[] cars)
+  static void OrdenarNumeros(int[] numerosDesordenados)
+  // tem um erro na função.
   {
     int indexA = 0;
     int indexB = 0;
-    foreach (int a in cars)
+    foreach (int a in numerosDesordenados)
     {
-      Console.WriteLine(indexA);
       indexA++;
-
-      foreach (int b in cars)
-      {
+      foreach (int b in numerosDesordenados)
         indexB++;
-        if (cars[indexB] > cars[indexA])
+      {
+        if (numerosDesordenados[indexB] > numerosDesordenados[indexA])
         {
-          int reserva = cars[indexB];
+          int reserva = numerosDesordenados[indexB];
 
-          cars[indexB] = cars[indexA];
-          cars[indexA] = reserva;
+          numerosDesordenados[indexB] = numerosDesordenados[indexA];
+          numerosDesordenados[indexA] = reserva;
         }
       }
     }
-    return 
   }
 }
