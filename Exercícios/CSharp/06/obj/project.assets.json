@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\96086\\Desktop\\mentoria\\Os12\\06\\06.csproj",
+      "projectUniqueName": "C:\\Users\\96086\\Desktop\\mentoria\\Exercícios\\CSharp\\06\\06.csproj",
       "projectName": "06",
-      "projectPath": "C:\\Users\\96086\\Desktop\\mentoria\\Os12\\06\\06.csproj",
+      "projectPath": "C:\\Users\\96086\\Desktop\\mentoria\\Exercícios\\CSharp\\06\\06.csproj",
       "packagesPath": "C:\\Users\\96086\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\96086\\Desktop\\mentoria\\Os12\\06\\obj\\",
+      "outputPath": "C:\\Users\\96086\\Desktop\\mentoria\\Exercícios\\CSharp\\06\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\96086\\AppData\\Roaming\\NuGet\\NuGet.Config",
