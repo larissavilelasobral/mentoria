@@ -1,8 +1,7 @@
-﻿using bytebak;
+﻿
 
 // control k c 
 // valores padrão
-
 namespace ConsoleApp
 {
   public class Program
@@ -20,25 +19,6 @@ namespace ConsoleApp
       conta2.conta = "1872-x";
       conta2.nome_agencia = "agencia norte";
       conta2.saldo = 300.50;
-
-      // Console.WriteLine("Nome do titular: "+conta1.titular);
-      // Console.WriteLine(conta1.conta);
-      // Console.WriteLine(conta1.nome_agencia);
-      // Console.WriteLine(conta1.saldo);
-      // Console.WriteLine(conta1.verificador);
-
-      // Console.WriteLine("Saldo da amanada pre-saque: " + conta2.saldo);
-      // bool saque = conta2.Sacar(50);
-      // Console.WriteLine("Saque realizado? " + saque);
-      // Console.WriteLine("Saldo da amanada pos-saque: " + conta2.saldo);
-      // conta2.Depositar(60);
-      // Console.WriteLine("Saldo da amanada pos-deposito: " + conta2.saldo);
-
-      // Console.WriteLine("Saldo da andre pos-deposito: " + conta1.saldo);
-      // Console.WriteLine("Saldo da amanada pos-deposito: " + conta2.saldo);
-      // conta1.Trasferir(50, conta2);
-      // Console.WriteLine("Saldo da andre pos-deposito: " + conta1.saldo);
-      // Console.WriteLine("Saldo da amanada pos-deposito: " + conta2.saldo);
     
       conta1.Extrato();
 
