@@ -4,5 +4,4 @@ Lorena é proprietária de uma franquia de fast food e quer disponibilizar para 
 
 Te desafiamos a criar uma composição de classes que poderá ser usada no desenvolvimento do sistema da Lorena. Vamos ao desafio?
 
-
 - https://cursos.alura.com.br/course/csharp-orientacao-objetos/task/106506
