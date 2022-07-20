@@ -1,0 +1,15 @@
+C:\Users\96086\Desktop\mentoria\Exercícios\CSharp\Organizacao\bin\Debug\net6.0\Organizacao.exe
+C:\Users\96086\Desktop\mentoria\Exercícios\CSharp\Organizacao\bin\Debug\net6.0\Organizacao.deps.json
+C:\Users\96086\Desktop\mentoria\Exercícios\CSharp\Organizacao\bin\Debug\net6.0\Organizacao.runtimeconfig.json
+C:\Users\96086\Desktop\mentoria\Exercícios\CSharp\Organizacao\bin\Debug\net6.0\Organizacao.dll
+C:\Users\96086\Desktop\mentoria\Exercícios\CSharp\Organizacao\bin\Debug\net6.0\Organizacao.pdb
+C:\Users\96086\Desktop\mentoria\Exercícios\CSharp\Organizacao\obj\Debug\net6.0\Organizacao.csproj.AssemblyReference.cache
+C:\Users\96086\Desktop\mentoria\Exercícios\CSharp\Organizacao\obj\Debug\net6.0\Organizacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96086\Desktop\mentoria\Exercícios\CSharp\Organizacao\obj\Debug\net6.0\Organizacao.AssemblyInfoInputs.cache
+C:\Users\96086\Desktop\mentoria\Exercícios\CSharp\Organizacao\obj\Debug\net6.0\Organizacao.AssemblyInfo.cs
+C:\Users\96086\Desktop\mentoria\Exercícios\CSharp\Organizacao\obj\Debug\net6.0\Organizacao.csproj.CoreCompileInputs.cache
+C:\Users\96086\Desktop\mentoria\Exercícios\CSharp\Organizacao\obj\Debug\net6.0\Organizacao.dll
+C:\Users\96086\Desktop\mentoria\Exercícios\CSharp\Organizacao\obj\Debug\net6.0\refint\Organizacao.dll
+C:\Users\96086\Desktop\mentoria\Exercícios\CSharp\Organizacao\obj\Debug\net6.0\Organizacao.pdb
+C:\Users\96086\Desktop\mentoria\Exercícios\CSharp\Organizacao\obj\Debug\net6.0\Organizacao.genruntimeconfig.cache
+C:\Users\96086\Desktop\mentoria\Exercícios\CSharp\Organizacao\obj\Debug\net6.0\ref\Organizacao.dll

@@ -1,0 +1,15 @@
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\Construtor\bin\Debug\net6.0\Construtor.exe
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\Construtor\bin\Debug\net6.0\Construtor.deps.json
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\Construtor\bin\Debug\net6.0\Construtor.runtimeconfig.json
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\Construtor\bin\Debug\net6.0\Construtor.dll
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\Construtor\bin\Debug\net6.0\Construtor.pdb
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\Construtor\obj\Debug\net6.0\Construtor.csproj.AssemblyReference.cache
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\Construtor\obj\Debug\net6.0\Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\Construtor\obj\Debug\net6.0\Construtor.AssemblyInfoInputs.cache
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\Construtor\obj\Debug\net6.0\Construtor.AssemblyInfo.cs
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\Construtor\obj\Debug\net6.0\Construtor.csproj.CoreCompileInputs.cache
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\Construtor\obj\Debug\net6.0\Construtor.dll
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\Construtor\obj\Debug\net6.0\refint\Construtor.dll
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\Construtor\obj\Debug\net6.0\Construtor.pdb
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\Construtor\obj\Debug\net6.0\Construtor.genruntimeconfig.cache
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\Construtor\obj\Debug\net6.0\ref\Construtor.dll

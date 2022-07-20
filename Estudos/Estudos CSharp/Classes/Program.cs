@@ -17,6 +17,8 @@ namespace ProgramaPrincipal
     Console.WriteLine("A idade é {0}", idade);
     Console.WriteLine("O peso é {0:F}", peso);
     
+    Caixa caixa1 = new Caixa();
+
     }
   }
 }

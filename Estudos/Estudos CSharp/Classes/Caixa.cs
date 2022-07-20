@@ -1,21 +1,13 @@
-/*
 namespace Principal
 {
   class Caixa
   {
-    // remetente
-    private string remetente;
-    // destinatario
-    private string destinatario;
-    // valor
-    private decimal valor;
+    private int codigo;
+    private string nome;
+    private decimal preco;
 
-    // print ou receber valor do remetente
-    public string Remetente { get => valor; set => valor = value; }
-    // print ou receber valor do destinatario
-    public string Destinatario { get => valor; set => valor = value; }
-    // print ou receber valor do valor
-    public decimal Valor { get => valor; set => valor = value; }
+    public int Codigo { get => codigo; set => codigo = value; }
+    public string Nome { get => nome; set => nome = value; }
+    public decimal Preco { get => preco; set => preco = value; }
   }
 }
-*/

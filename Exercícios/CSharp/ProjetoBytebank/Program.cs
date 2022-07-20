@@ -1,8 +1,4 @@
-﻿
-
-// control k c 
-// valores padrão
-namespace ConsoleApp
+﻿namespace ConsoleApp
 {
   public class Program
   {

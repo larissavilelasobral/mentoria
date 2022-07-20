@@ -5,19 +5,26 @@
     Console.WriteLine("Bem Vindo ao UaiFood!");
 
     Console.WriteLine("Digite seu nome: ");
-    var nome = Console.ReadLine() ?? string.Empty;
+    string nome = Console.ReadLine() ?? string.Empty;
+    Console.WriteLine("------------");
 
     Console.WriteLine("Digite seu Enderço: ");
-    var endereco = Console.ReadLine() ?? string.Empty;
+    string endereco = Console.ReadLine() ?? string.Empty;
+    Console.WriteLine("------------");
 
     Console.WriteLine("O que gostaria de pedir? ");
-    Console.WriteLine("1.x-tudo \n 2. batata \n 3.coca-cola \n 4.pepsi cola");
-    var itens = Console.ReadLine() ?? string.Empty;
-
+    Menu();
+    string itens = Console.ReadLine() ?? string.Empty;
+    Console.WriteLine("------------");
+    
     Pedido novoPedido = new Pedido(nome, endereco, itens);
-    novoPedido.Cardapio(itens);
-    novoPedido.ValorTotal();
-    novoPedido.ResumoPedio();
+    string nomePedido = novoPedido.Cardapio(itens);
+    novoPedido.ResumoPedio(nomePedido);
+  }
+
+  static void Menu()
+  {
+    Console.WriteLine("Menu: \n 1. X-Tudo \n 2. Batata \n 3. Coca-Cola \n 4. Pepsi Cola");
   }
 }
 

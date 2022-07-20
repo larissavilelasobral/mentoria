@@ -1,5 +1,8 @@
 ### Repositorio da Mentoria
 
+```
+dotnet new console -o app
+```
 ## Estudos
 - [Enum](https://github.com/larissavilelasobral/mentoria/tree/main/Estudos/Estudos%20CSharp/Enum)
 - [Switch](https://github.com/larissavilelasobral/mentoria/tree/main/Estudos/Estudos%20CSharp/Switch)
