@@ -1,0 +1,15 @@
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\TabelaDeItens\obj\Debug\net6.0\TabelaDeItens.csproj.AssemblyReference.cache
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\TabelaDeItens\obj\Debug\net6.0\TabelaDeItens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\TabelaDeItens\obj\Debug\net6.0\TabelaDeItens.AssemblyInfoInputs.cache
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\TabelaDeItens\obj\Debug\net6.0\TabelaDeItens.AssemblyInfo.cs
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\TabelaDeItens\obj\Debug\net6.0\TabelaDeItens.csproj.CoreCompileInputs.cache
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\TabelaDeItens\bin\Debug\net6.0\TabelaDeItens.exe
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\TabelaDeItens\bin\Debug\net6.0\TabelaDeItens.deps.json
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\TabelaDeItens\bin\Debug\net6.0\TabelaDeItens.runtimeconfig.json
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\TabelaDeItens\bin\Debug\net6.0\TabelaDeItens.dll
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\TabelaDeItens\bin\Debug\net6.0\TabelaDeItens.pdb
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\TabelaDeItens\obj\Debug\net6.0\TabelaDeItens.dll
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\TabelaDeItens\obj\Debug\net6.0\refint\TabelaDeItens.dll
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\TabelaDeItens\obj\Debug\net6.0\TabelaDeItens.pdb
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\TabelaDeItens\obj\Debug\net6.0\TabelaDeItens.genruntimeconfig.cache
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\TabelaDeItens\obj\Debug\net6.0\ref\TabelaDeItens.dll

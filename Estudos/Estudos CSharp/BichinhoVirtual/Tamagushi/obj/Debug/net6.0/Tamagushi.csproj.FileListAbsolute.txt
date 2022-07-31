@@ -1,0 +1,12 @@
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\BichinhoVirtual\Tamagushi\bin\Debug\net6.0\Tamagushi.deps.json
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\BichinhoVirtual\Tamagushi\bin\Debug\net6.0\Tamagushi.dll
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\BichinhoVirtual\Tamagushi\bin\Debug\net6.0\Tamagushi.pdb
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\BichinhoVirtual\Tamagushi\obj\Debug\net6.0\Tamagushi.csproj.AssemblyReference.cache
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\BichinhoVirtual\Tamagushi\obj\Debug\net6.0\Tamagushi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\BichinhoVirtual\Tamagushi\obj\Debug\net6.0\Tamagushi.AssemblyInfoInputs.cache
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\BichinhoVirtual\Tamagushi\obj\Debug\net6.0\Tamagushi.AssemblyInfo.cs
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\BichinhoVirtual\Tamagushi\obj\Debug\net6.0\Tamagushi.csproj.CoreCompileInputs.cache
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\BichinhoVirtual\Tamagushi\obj\Debug\net6.0\Tamagushi.dll
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\BichinhoVirtual\Tamagushi\obj\Debug\net6.0\refint\Tamagushi.dll
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\BichinhoVirtual\Tamagushi\obj\Debug\net6.0\Tamagushi.pdb
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\BichinhoVirtual\Tamagushi\obj\Debug\net6.0\ref\Tamagushi.dll

@@ -1,0 +1,15 @@
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\TiposPessoas\obj\Debug\net6.0\TiposPessoas.csproj.AssemblyReference.cache
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\TiposPessoas\obj\Debug\net6.0\TiposPessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\TiposPessoas\obj\Debug\net6.0\TiposPessoas.AssemblyInfoInputs.cache
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\TiposPessoas\obj\Debug\net6.0\TiposPessoas.AssemblyInfo.cs
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\TiposPessoas\obj\Debug\net6.0\TiposPessoas.csproj.CoreCompileInputs.cache
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\TiposPessoas\bin\Debug\net6.0\TiposPessoas.exe
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\TiposPessoas\bin\Debug\net6.0\TiposPessoas.deps.json
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\TiposPessoas\bin\Debug\net6.0\TiposPessoas.runtimeconfig.json
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\TiposPessoas\bin\Debug\net6.0\TiposPessoas.dll
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\TiposPessoas\bin\Debug\net6.0\TiposPessoas.pdb
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\TiposPessoas\obj\Debug\net6.0\TiposPessoas.dll
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\TiposPessoas\obj\Debug\net6.0\refint\TiposPessoas.dll
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\TiposPessoas\obj\Debug\net6.0\TiposPessoas.pdb
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\TiposPessoas\obj\Debug\net6.0\TiposPessoas.genruntimeconfig.cache
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\TiposPessoas\obj\Debug\net6.0\ref\TiposPessoas.dll

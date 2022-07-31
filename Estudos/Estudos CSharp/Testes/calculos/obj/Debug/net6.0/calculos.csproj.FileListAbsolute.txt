@@ -1,0 +1,12 @@
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\Testes\calculos\bin\Debug\net6.0\calculos.deps.json
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\Testes\calculos\bin\Debug\net6.0\calculos.dll
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\Testes\calculos\bin\Debug\net6.0\calculos.pdb
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\Testes\calculos\obj\Debug\net6.0\calculos.csproj.AssemblyReference.cache
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\Testes\calculos\obj\Debug\net6.0\calculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\Testes\calculos\obj\Debug\net6.0\calculos.AssemblyInfoInputs.cache
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\Testes\calculos\obj\Debug\net6.0\calculos.AssemblyInfo.cs
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\Testes\calculos\obj\Debug\net6.0\calculos.csproj.CoreCompileInputs.cache
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\Testes\calculos\obj\Debug\net6.0\calculos.dll
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\Testes\calculos\obj\Debug\net6.0\refint\calculos.dll
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\Testes\calculos\obj\Debug\net6.0\calculos.pdb
+C:\Users\96086\Desktop\mentoria\Estudos\Estudos CSharp\Testes\calculos\obj\Debug\net6.0\ref\calculos.dll
