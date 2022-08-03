@@ -14,13 +14,12 @@ namespace PokemonApp
         resp = Menu();
         if (resp == 1) // mostrar apenas a lista de pokemons
         {
-
           pokedex.ListarPokemons();
         }
         if (resp == 2) // batalha
         {
-          string resultado = Batalha();
-          Console.WriteLine(resultado);
+          bool resul = Batalha();
+          Resultado(resul);
         }
         Console.ReadKey();
         Console.Clear();
@@ -44,7 +43,7 @@ namespace PokemonApp
       return resp;
     }
 
-    static string Batalha()
+    static bool Batalha()
     {
       Pokedex pokedex = new Pokedex();
       // mostrar todos os pokemons
@@ -70,16 +69,27 @@ namespace PokemonApp
       Console.WriteLine(" ------- Dados do pokémon do PC ------- ");
       pPc.ExibirDadosPokemonPlus();
 
-      string venceu = ">>>>>> Parabens!! Você ganhou! <<<<<<";
-      string perdeu = ">>>>>> Que pena! Você perdeu! <<<<<<";
-
       if (pPlayer.Poder >= pPc.Poder)
       {
-        return venceu;
+        return true;
       }
       else
       {
-        return perdeu;
+        return false;
+      }
+    }
+
+    static void Resultado(bool resul)
+    {
+      if (resul == true)
+      {
+        string venceu = ">>>>>> Parabens!! Você ganhou! <<<<<<";
+        Console.WriteLine(venceu);
+      }
+      else
+      {
+        string perdeu = ">>>>>> Que pena! Você perdeu! <<<<<<";
+        Console.WriteLine(perdeu);
       }
     }
   }
