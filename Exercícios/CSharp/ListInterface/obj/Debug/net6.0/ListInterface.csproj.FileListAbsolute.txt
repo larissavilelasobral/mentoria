@@ -1,0 +1,15 @@
+C:\Users\96086\Desktop\mentoria\Exercícios\CSharp\ListInterface\obj\Debug\net6.0\ListInterface.csproj.AssemblyReference.cache
+C:\Users\96086\Desktop\mentoria\Exercícios\CSharp\ListInterface\obj\Debug\net6.0\ListInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96086\Desktop\mentoria\Exercícios\CSharp\ListInterface\obj\Debug\net6.0\ListInterface.AssemblyInfoInputs.cache
+C:\Users\96086\Desktop\mentoria\Exercícios\CSharp\ListInterface\obj\Debug\net6.0\ListInterface.AssemblyInfo.cs
+C:\Users\96086\Desktop\mentoria\Exercícios\CSharp\ListInterface\obj\Debug\net6.0\ListInterface.csproj.CoreCompileInputs.cache
+C:\Users\96086\Desktop\mentoria\Exercícios\CSharp\ListInterface\bin\Debug\net6.0\ListInterface.exe
+C:\Users\96086\Desktop\mentoria\Exercícios\CSharp\ListInterface\bin\Debug\net6.0\ListInterface.deps.json
+C:\Users\96086\Desktop\mentoria\Exercícios\CSharp\ListInterface\bin\Debug\net6.0\ListInterface.runtimeconfig.json
+C:\Users\96086\Desktop\mentoria\Exercícios\CSharp\ListInterface\bin\Debug\net6.0\ListInterface.dll
+C:\Users\96086\Desktop\mentoria\Exercícios\CSharp\ListInterface\bin\Debug\net6.0\ListInterface.pdb
+C:\Users\96086\Desktop\mentoria\Exercícios\CSharp\ListInterface\obj\Debug\net6.0\ListInterface.dll
+C:\Users\96086\Desktop\mentoria\Exercícios\CSharp\ListInterface\obj\Debug\net6.0\refint\ListInterface.dll
+C:\Users\96086\Desktop\mentoria\Exercícios\CSharp\ListInterface\obj\Debug\net6.0\ListInterface.pdb
+C:\Users\96086\Desktop\mentoria\Exercícios\CSharp\ListInterface\obj\Debug\net6.0\ListInterface.genruntimeconfig.cache
+C:\Users\96086\Desktop\mentoria\Exercícios\CSharp\ListInterface\obj\Debug\net6.0\ref\ListInterface.dll

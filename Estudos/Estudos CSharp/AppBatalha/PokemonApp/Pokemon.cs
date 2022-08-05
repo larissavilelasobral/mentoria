@@ -2,6 +2,9 @@ namespace PokemonApp
 {
   public class Pokemon
   {
+    private String nome; // nome do pokemon
+    private String descricao; // armazena o valor da propriedade Descricao
+
     // construtor basico
     public Pokemon()
     {
@@ -16,8 +19,6 @@ namespace PokemonApp
       this.Descricao = descricao;
     }
 
-    private String nome; // nome do pokemon
-
     public String Nome // propriedade
     {
       get
@@ -30,8 +31,6 @@ namespace PokemonApp
         nome = texto;
       }
     }
-
-    private String descricao; // armazena o valor da propriedade Descricao
 
     public String Descricao // representa a caracteristica Descricao do meu pokemon
     {

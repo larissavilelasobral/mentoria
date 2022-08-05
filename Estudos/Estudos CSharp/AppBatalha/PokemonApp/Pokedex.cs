@@ -3,7 +3,6 @@ namespace PokemonApp
   public class Pokedex
   { //propfull
 
-
     // construtor
     public Pokedex()
     {

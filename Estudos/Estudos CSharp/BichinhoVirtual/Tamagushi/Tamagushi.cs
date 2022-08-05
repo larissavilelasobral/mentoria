@@ -7,13 +7,11 @@
     public string saude;
     public string idade;
 
-    public string Nome { get => nome; set => nome = value; }
-
     public string AlterarNome(string novoNome)
     {
-      this.Nome = novoNome;
+      this.nome = novoNome;
 
-      return this.Nome;
+      return this.nome;
     }
 
     public void AlterarFome(string novoFome)

@@ -18,8 +18,25 @@ namespace PokemonApp
         }
         if (resp == 2) // batalha
         {
-          bool resul = Batalha();
-          Resultado(resul);
+          // lista pokemons
+          pokedex.ListarPokemons();
+          // capturar a respotas e converter para inteiro.
+          int pokemon = Convert.ToInt32(Console.ReadLine());
+          // definir o pokemon do pc que vai batalhar contra ele.
+          Random aleatorio = new Random();
+          // vai pegar um valor de 0-tamanho da lista
+          int pokemonAleatorio = aleatorio.Next(0, pokedex.Pokemons.Count);
+          // iniciar batalha
+          int pokemonVencedor = Batalha(pokemon, pokemonAleatorio);
+          // verificar na lista
+          if(pokemon == pokemonVencedor)
+          {
+            Resultado(true);
+          }
+          else
+          {
+            Resultado(false);
+          }  
         }
         Console.ReadKey();
         Console.Clear();
@@ -43,25 +60,15 @@ namespace PokemonApp
       return resp;
     }
 
-    static bool Batalha()
+    public static int Batalha(int pokemon, int pokemonAleatorio)
     {
       Pokedex pokedex = new Pokedex();
-      // mostrar todos os pokemons
-      pokedex.ListarPokemons();
       // escolher um pokemon da lista.
-      Console.WriteLine("Digite o código do pokémon: ");
-      // capturar a respotas e converter para inteiro.
-      int codigo = Convert.ToInt32(Console.ReadLine());
-
+      Console.WriteLine("Digite o código do seu pokémon: ");
       // pegar o pokemon do jogador na lista.
-      PokemonPlus pPlayer = pokedex.Pokemons[codigo];
-      // definir o pokemon do pc que vai batalhar contra ele.
-      Random aleatorio = new Random();
-      // vai pegar um valor de 0-tamanho da lista
-      codigo = aleatorio.Next(0, pokedex.Pokemons.Count);
+      PokemonPlus pPlayer = pokedex.Pokemons[pokemon];
       // capturar pokemon do pc.
-      PokemonPlus pPc = pokedex.Pokemons[codigo];
-
+      PokemonPlus pPc = pokedex.Pokemons[pokemonAleatorio];
       //Dados dos pokémons que irão lutar
       Console.WriteLine(" ------- Dados do seu pokémon ------- ");
       pPlayer.ExibirDadosPokemonPlus();
@@ -71,25 +78,29 @@ namespace PokemonApp
 
       if (pPlayer.Poder >= pPc.Poder)
       {
-        return true;
+        return pokemon;
       }
       else
       {
-        return false;
+        return pokemonAleatorio;
       }
     }
 
-    static void Resultado(bool resul)
+    public static bool Resultado(bool resul)
     {
       if (resul == true)
       {
         string venceu = ">>>>>> Parabens!! Você ganhou! <<<<<<";
         Console.WriteLine(venceu);
+
+        return true;
       }
       else
       {
         string perdeu = ">>>>>> Que pena! Você perdeu! <<<<<<";
         Console.WriteLine(perdeu);
+
+        return false;
       }
     }
   }
