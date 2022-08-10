@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Tamagushi.Tests")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Tamagushi.tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Tamagushi.Tests")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Tamagushi.Tests")]
+[assembly: System.Reflection.AssemblyProductAttribute("Tamagushi.tests")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Tamagushi.tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

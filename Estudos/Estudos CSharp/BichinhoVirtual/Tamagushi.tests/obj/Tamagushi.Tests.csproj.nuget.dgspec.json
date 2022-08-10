@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\96086\\Desktop\\mentoria\\Estudos\\Estudos CSharp\\BichinhoVirtual\\Tamagushi.Tests\\Tamagushi.Tests.csproj": {}
+    "C:\\Users\\96086\\Desktop\\mentoria\\Estudos\\Estudos CSharp\\BichinhoVirtual\\Tamagushi.tests\\Tamagushi.tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\96086\\Desktop\\mentoria\\Estudos\\Estudos CSharp\\BichinhoVirtual\\Tamagushi.Tests\\Tamagushi.Tests.csproj": {
+    "C:\\Users\\96086\\Desktop\\mentoria\\Estudos\\Estudos CSharp\\BichinhoVirtual\\Tamagushi.tests\\Tamagushi.tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\96086\\Desktop\\mentoria\\Estudos\\Estudos CSharp\\BichinhoVirtual\\Tamagushi.Tests\\Tamagushi.Tests.csproj",
-        "projectName": "Tamagushi.Tests",
-        "projectPath": "C:\\Users\\96086\\Desktop\\mentoria\\Estudos\\Estudos CSharp\\BichinhoVirtual\\Tamagushi.Tests\\Tamagushi.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\96086\\Desktop\\mentoria\\Estudos\\Estudos CSharp\\BichinhoVirtual\\Tamagushi.tests\\Tamagushi.tests.csproj",
+        "projectName": "Tamagushi.tests",
+        "projectPath": "C:\\Users\\96086\\Desktop\\mentoria\\Estudos\\Estudos CSharp\\BichinhoVirtual\\Tamagushi.tests\\Tamagushi.tests.csproj",
         "packagesPath": "C:\\Users\\96086\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\96086\\Desktop\\mentoria\\Estudos\\Estudos CSharp\\BichinhoVirtual\\Tamagushi.Tests\\obj\\",
+        "outputPath": "C:\\Users\\96086\\Desktop\\mentoria\\Estudos\\Estudos CSharp\\BichinhoVirtual\\Tamagushi.tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\96086\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -5,7 +5,7 @@ public class Tests
   [SetUp]
   public void Setup()
   {
-    
+
 
   }
 
@@ -24,10 +24,11 @@ public class Tests
   [Test]
   public void Test_Resultado_Retonar_True()
   {
-    // verifcar se a função Resultado retorna True
-    // Resultado(true)
-    bool valorEnviado = false;
-    bool valorRetornado = Program.Resultado(valorEnviado);
-    Assert.AreEqual(true, valorRetornado);
+    var stringWriter = new StringWriter();
+    Console.SetOut(stringWriter);
+
+    Program.Resultado(true);
+    string mensagemVitoria = ">>>>>> Parabens!! Você ganhou! <<<<<<";
+    Assert.AreEqual(mensagemVitoria, stringWriter.ToString());
   }
 }

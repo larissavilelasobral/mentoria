@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+HL6Qo0xwQcA7BYEEjsSFxEWO0L7IOtV8/w+ctwM/OiT3BlU24g6bx1MxDIqHTQrAda8/ZI5Y8Lj5zVRpIXG5g==",
+  "dgSpecHash": "4Z4zTxtjb0J8bPeu/syuLGc2RvKKRX3jyFJmLXeiUzDR+H0wp/hjBiU1v1I6dymcCUzZ1HxzKk8lute7fj2Irw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\96086\\Desktop\\mentoria\\Estudos\\Estudos CSharp\\BichinhoVirtual\\Tamagushi.Tests\\Tamagushi.Tests.csproj",
+  "projectFilePath": "C:\\Users\\96086\\Desktop\\mentoria\\Estudos\\Estudos CSharp\\BichinhoVirtual\\Tamagushi.tests\\Tamagushi.tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\96086\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\96086\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

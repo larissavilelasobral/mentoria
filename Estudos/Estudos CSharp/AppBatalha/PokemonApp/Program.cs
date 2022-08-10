@@ -86,21 +86,17 @@ namespace PokemonApp
       }
     }
 
-    public static bool Resultado(bool resul)
+    public static void Resultado(bool resul)
     {
       if (resul == true)
       {
         string venceu = ">>>>>> Parabens!! Você ganhou! <<<<<<";
-        Console.WriteLine(venceu);
-
-        return true;
+        Console.Write(venceu);
       }
       else
       {
         string perdeu = ">>>>>> Que pena! Você perdeu! <<<<<<";
-        Console.WriteLine(perdeu);
-
-        return false;
+        Console.Write(perdeu);
       }
     }
   }
