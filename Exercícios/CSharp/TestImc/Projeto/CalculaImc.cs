@@ -13,7 +13,12 @@ namespace Projeto
       // peso invalido
       if (peso <= 0)
       {
-        throw new ArgumentException("Peso invalido!");
+        throw new PesoException("Peso invalido!");
+      }
+
+      if (altura <= 0)
+      {
+        throw new AlturaException("Altura invalido!");
       }
 
       double quadradoDaAltura = altura * altura;
@@ -24,6 +29,11 @@ namespace Projeto
 
     public void FiltrarIMC(double imc)
     {
+      if (imc <= 0)
+      {
+        throw new ArgumentException("IMC invalido!");
+      }
+
       if (imc < 18.5) {
         Console.Write("Abaixo do peso");
       }
@@ -41,4 +51,14 @@ namespace Projeto
       }
     }
   }
+}
+
+public class PesoException : Exception
+{
+  public PesoException(string message) : base(message) { }
+}
+
+public class AlturaException : Exception
+{
+  public AlturaException(string message) : base(message) { }
 }

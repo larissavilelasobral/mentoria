@@ -11,18 +11,27 @@ public class Tests
   }
 
   [Test]
-  public void Test_calcularIMC_return()
+  public void Test_calcularIMC_sucesso()
   {
     // arrange
     double peso = 70;
     double altura = 1.70;
     double imcEsperado = 24.221453287197235;
-    
+
     // act 
-    double imcCalculado = _larissa.CalcularImc(peso, altura);
+    double imcCalculado = _luiz.CalcularImc(peso, altura);
 
     // assert
     Assert.AreEqual(imcEsperado, imcCalculado);
+  }
+
+  [Test]
+  public void Test_calcularIMC_error()
+  {
+    double peso = -70;
+    double altura = 1.70;
+
+    Assert.Throws<PesoException>(() => _larissa.CalcularImc(peso, altura));
   }
 
   [TestCase(18, "Abaixo do peso")]
@@ -35,10 +44,31 @@ public class Tests
     var stringWriter = new StringWriter();
     Console.SetOut(stringWriter);
 
-    _larissa.FiltrarIMC(imc);
-    
+    _luiz.FiltrarIMC(imc);
+
     Assert.AreEqual(mensagemEsperada, stringWriter.ToString());
   }
 
-  // testa exeption
+  [Test]
+  public void Test_calcularIMC_filter_error()
+  {
+    double imc = -30;
+    var ex = Assert.Throws<ArgumentException>(() => _larissa.FiltrarIMC(imc));
+
+    Assert.That(ex.Message, Is.EqualTo("IMC invalido!"));
+  }
+
+  // [Test]
+  // public void Test_startImc_error()
+  // {
+  //   var stringWriter = new StringWriter();
+  //   Console.SetOut(stringWriter);
+  //   double peso = -70;
+  //   double altura = 1.70;
+    
+  //   //Program program = new Program();
+  //   Program program = new Program();
+
+  //   Assert.AreEqual("Peso invalido!", stringWriter.ToString());
+  // }
 }

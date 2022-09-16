@@ -3,6 +3,7 @@
 ```
 dotnet new console -o app
 ```
+
 ## Estudos
 - [Enum](https://github.com/larissavilelasobral/mentoria/tree/main/Estudos/Estudos%20CSharp/Enum)
 - [Switch](https://github.com/larissavilelasobral/mentoria/tree/main/Estudos/Estudos%20CSharp/Switch)
@@ -13,7 +14,7 @@ dotnet new console -o app
 - [Calculadora Simples](https://github.com/larissavilelasobral/mentoria/blob/main/Exerc%C3%ADcios/Javascript/CalculadoraSimples.js)
 - [Calculadora Simples Refatorada](https://github.com/larissavilelasobral/mentoria/blob/main/Exerc%C3%ADcios/Javascript/CalculadoraSimplesRefatorada.js)
 - [Ordenar Numeros](https://github.com/larissavilelasobral/mentoria/blob/main/Exerc%C3%ADcios/Javascript/OrdenarNumeros.js)
-- []()
+
 ## Resumos
 - [Estruturas Condicionais](https://github.com/larissavilelasobral/mentoria/blob/main/Resumos/Javascript/EstruturasCondicionais.md)
 - [Funções em Javascript](https://github.com/larissavilelasobral/mentoria/blob/main/Resumos/Javascript/funcao.md)
@@ -28,5 +29,3 @@ dotnet new console -o app
 
 ## Outros
 - [Programação Funcional(Currying)](https://github.com/larissavilelasobral/mentoria/blob/main/Outros/Programacao-funcional-currying.md)
-- []()
-- []()
